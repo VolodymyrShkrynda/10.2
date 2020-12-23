@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Вова\OneDrive\Рабочий стол\АП\Lab 10.2\UnitTest1\UnitTest1.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\Вова\OneDrive\Рабочий стол\АП\Lab 10.2\UnitTest1\UnitTest1.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\Вова\OneDrive\Рабочий стол\АП\Lab 10.2\UnitTest1\UnitTest1.cpp(2): message : использование предварительно скомпилированного заголовка
+C:\Users\Вова\OneDrive\Рабочий стол\АП\Lab 10.2\Lab 10.2\Lab 10.2.cpp(30,11): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
